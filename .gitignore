@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+vir_*
+private/
 
 # C extensions
 *.so
